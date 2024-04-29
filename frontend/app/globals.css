@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+15&family=Roboto:wght@500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #31363f;
+  font-family: "Jersey 15", "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
